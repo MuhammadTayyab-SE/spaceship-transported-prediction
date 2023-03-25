@@ -7,7 +7,7 @@ The Spaceship Titanic was an interstellar passenger liner launched a month ago. 
 
 While rounding Alpha Centauri en route to its first destination—the torrid 55 Cancri E—the unwary Spaceship Titanic collided with a spacetime anomaly hidden within a dust cloud. Sadly, it met a similar fate as its namesake from 1000 years before. Though the ship stayed intact, almost half of the passengers were transported to an alternate dimension!
 
-[!space-image]()
+![space-image](https://github.com/MuhammadTayyab-SE/spaceship-transported-prediction/blob/2730f4e6a6d27fae543d7b89ddd3b57e7190f486/images/cover.jpg)
 
 # **Dataset Description**
 - **train.csv** - Personal records for about two-thirds (~8700) of the passengers, to be used as training data.
